@@ -17,28 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-*"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir."*
+*"As humans we can identify galaxies light-years away, we can study particles smaller than an atom, but we still haven't unlocked the mystery of the three pounds of matter that sits between our ears."*
 
-[🖺My Resume](https://drive.google.com/file/d/1o8IxkTxctQQ22EMlaFNrtAzalCcecUEF/view?usp=drive_link)
+[🖺My Resume]("../docs/resume.pdf")
 
 
 # 📖 About me
-I am Ph.D. candidate in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Robotics and Autonomous Systems)</a> at Academy of Interdisciplinary Studies (**AIS**) of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a>. Before joined <a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
+I am B.S. student major in life science at Department of Life Sciences and Medicine of University of Science and Technology of China(**USTC**). I will receive my Bachelor's Degree in 2025!
 
-My reserach interest lies in the intersection of neural science, neural engineering, machine learning, and robotics. Now I focus on developing conputational models based point process filter for understanding neural population activity and neural connectivity in **Brain-machine Interfaces**. And I also did some work on brain-inspired intelligence for mechanical product design.
+My research interest lies in exploration how our brains encode and decode information. I hope to solve this puzzle by modeling the neural network. Also, I am a big fan of machine learning and eager to implement the efficient information processing in our brains into constructing more powerful artificial intelligence.
 
-# 🔥 News
-- *2024.04*: Two papers are accepted to EMBC 2024!
-- *2023.08*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
-- *2023.08*: A paper is accepted to ESWA. I finished my master study eventually!
-- *2023.04*: A paper is accepted to EMBC 2023.
-- *2022.11*: I passed my PhD Qualifying Examination!
-- *2022.09*: A paper is accepted by IJPR.
-<!-- - *2022.04*: A paper is accepted to EMBC 2022. -->
-<!-- *2021.09*: Join CCEL Group of HKUST!
-*2021.03*: Graduate from Zhejiang University! -->
+My interest in neuroscience begins in one day of my high school when I woke up from a nap, I would see a large number of repetitive visual short films in front of my eyes, such as the
+Donald Duck squatting and standing up again, etc. They slowly floated past my eyes, but if I fully opened my eyes, they disappeared completely. I wonder if the short clip I saw is the form  visual memory stored in the brain or in a dream. These short films are organized to form a coherent dream logically by my brain. Whether this hypothesis right or not, from that moment on, my interest in neuroscience was ignited.
 
-# 📝 Publications
+<!-- # 📝 Publications
 ## Journal paper
 <ol> 
 <li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, <b>Expert Systems With Applications</b>, 2023. (IF = 8.5) <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
@@ -48,35 +40,19 @@ My reserach interest lies in the intersection of neural science, neural engineer
 <li>Xuanyu Wu, Zhaoxi Hong*, Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou, Jianrong Tan. A semantic analysis driven customer requirements mining method for product conceptual design, <b>Scientific Reports</b>, 2022. (IF = 4.6) <a href="https://doi.org/10.1038/s41598-022-14396-3">[PDF]</a></li>
   
 <li>Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, <b>Transaction of the ASME, Journal of computing and Information Science in Engineering</b>, 2021. (IF = 3.1) <a href="https://doi.org/10.1115/1.4049895">[PDF]</a></li>
-</ol> 
-
-## Conference paper
-<ol>
-<li><b>Mingdong Li</b>, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identificatio, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. <a href="">[not ready]</a></li>
-
-<li>Zixu Wang<span>&#8224;</span>, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. (<span>&#8224;</span>: equal contribution) <a href="">[not ready]</a></li>
-
-<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2023. <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
-
-<li><b>Mingdong Li</b>, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, <b>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2022. <a href="https://doi.org/10.1109/EMBC48229.2022.9871283">[PDF]</a></li>
-</ol> 
-
-
+</ol>  -->
 
 # 👨‍💻 Teaching and Services
 - Teaching Assistant
-  - ELEC4130 Machine Learning on Images (2023 Spring)
-  - EMIA4110 Practical Machine Learning (2024 Spring)
+  - **Inorganic Chemistry** (60 hrs.), School of Life Sciences, USTC (2023 Fall)
+  - **Analytical Chemistry** (40 hrs.), School of Life Sciences, USTC (2024 Spring)
 
   
-
 # 🏆 Honors and Awards
-- *2023.10*: Research Travel Grant by HKUST
-- *2021.03*: Zhejiang University Graduation Scholarship (Top 2 postgraduates of each college in the graduation year)
-- *2019.10*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize (Rank 10)
-- *2016.07*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
-- *2016.05*: 1st prize in Shanghai College Mechanical Innovation Competition 
-- *2013 - 2018*: Tongji Scholarship of Excellence (2nd prize & 3rd prize)
+- *2022.10*: Silver Award of iGEM in 2022
+- *2022.11*: Rose Scholarship (awarded by ranking 3/112)
+- *2023.10*: National Scholarship (awarded by ranking 1/87)
+- *2023.10*: Silver Award of iGEM in 2023
 
 <!-- 
 # 💻 Internships and Activities
@@ -88,10 +64,10 @@ My reserach interest lies in the intersection of neural science, neural engineer
 -->
 
 # 🎉 Life
-- Languages: Mandarin, English, Germany, French (within *Les rois du monde*)
-- Interest: Reading/Coffee/Photography/Erhu/Musicals/Football/Badminton/Video games
+- Languages: Mandarin, English
+- Interest: Reading/Coffee/Photography/Harmonica/Table Tennis/Badminton/Video games
 
-# 🗺️ Sitemap
+<!-- # 🗺️ Sitemap -->
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=ff8888&cmn=ff3737&ct=808080'></script> -->
 
 <div align="center">
