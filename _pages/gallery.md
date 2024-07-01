@@ -10,18 +10,18 @@ author_profile: false
 
 # 2023
 ## Spring in USTC
-![](../images/IMG_0444.jpg)
+![](../images/IMG_0444.jpg =100x)
 
 ## Summer in USTC
-![](../images/IMG_9973.JPG)
+![](../images/IMG_9973.JPG =100x)
 
 ## Autumn in USTC
-![Jump!](../images/IMG_0122.jpg)
+![Jump!](../images/IMG_0122.jpg =100x)
 
 ## Winter in USTC
-![HotCoffeeTime](../images/IMG_0171.jpg)
+![HotCoffeeTime](../images/IMG_0171.jpg =100x)
 
-![canthus](../images/IMG_0251.jpg)
+![canthus](../images/IMG_0251.jpg =100x)
 
 ## Nanjing (南京)
 

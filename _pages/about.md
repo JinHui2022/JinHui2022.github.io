@@ -25,10 +25,19 @@ redirect_from:
 # 📖 About me
 I am B.S. student major in life science at Department of Life Sciences and Medicine of University of Science and Technology of China(**USTC**). I will receive my Bachelor's Degree in 2025!
 
-My research interest lies in exploration how our brains encode and decode information. I hope to solve this puzzle by modeling the neural network. Also, I am a big fan of machine learning and eager to implement the efficient information processing in our brains into constructing more powerful artificial intelligence.
+*My Research Interest*
 
-My interest in neuroscience begins in one day of my high school when I woke up from a nap, I would see a large number of repetitive visual short films in front of my eyes, such as the
-Donald Duck squatting and standing up again, etc. They slowly floated past my eyes, but if I fully opened my eyes, they disappeared completely. I wonder if the short clip I saw is the form  visual memory stored in the brain or in a dream. These short films are organized to form a coherent dream logically by my brain. Whether this hypothesis right or not, from that moment on, my interest in neuroscience was ignited.
+For a long time, I have been obessed with the mechanism **how cognition and intelligence come about in our brains**. So I pay my attention to research in neuroscience. 
+
+From my perspective, relevant researches could be divided into 2 types: one focusing on the single neuron, the other showing more interest in the activities of neural network. Past decades have witnessed wonderful work in the level of single neuron. What's more, the great success ChatGPT or other AIs have achieved convince me that simple as a single neuron's behaviour is, by connecting with each other they can perform very complex tasks. **Therefore, I plan to dedicate myself into unveiling the puzzle of intelligence in the level of network.** 
+
+Throughout my undergraduate career, I have seen many excellent modelling work analysing how neural network in specific region encodes and decodes information. It turns out that neuron assembly take various methods to handle information across different areas. **However, I am wondering whether there exist some basic rules in the level of network that each neuron should obey** and accordingly develop into such various encoders or decoders. 
+
+Also, I am a big fan of deeper learning and eager to implement the efficient information processing in our brains into constructing more powerful artificial intelligence.
+
+*Funny Story about My Interest in Neuroscience*
+
+My interest in neuroscience begins in one day of my high school when I woke up from a nap, I would see a large number of repetitive visual short films in front of my eyes, such as the Donald Duck squatting and standing up again, etc. They slowly floated past my eyes, but if I fully opened my eyes, they disappeared completely. I wonder if the short clip I saw is the form  visual memory stored in the brain or in a dream. These short films are organized to form a coherent dream logically by my brain. Whether this hypothesis right or not, from that moment on, my interest in neuroscience was ignited.
 
 <!-- # 📝 Publications
 ## Journal paper
@@ -47,28 +56,21 @@ Donald Duck squatting and standing up again, etc. They slowly floated past my ey
   - **Inorganic Chemistry** (60 hrs.), School of Life Sciences, USTC (2023 Fall)
   - **Analytical Chemistry** (40 hrs.), School of Life Sciences, USTC (2024 Spring)
 
-  
 # 🏆 Honors and Awards
 - *2022.10*: Silver Award of iGEM in 2022
 - *2022.11*: Rose Scholarship (awarded by ranking 3/112)
 - *2023.10*: National Scholarship (awarded by ranking 1/87)
 - *2023.10*: Silver Award of iGEM in 2023
+- *2023.11*：Best Contribution Award of iDEC in 2023
 
-<!-- 
 # 💻 Internships and Activities
-- *2022.05*: A Poster was accepted for The 3rd International Workshop on Neural Engineering & Rehabilitation
-- *2017.11 - 2018.03*: Product Management Intern, Schindler China Headquarters, Shanghai. 
-- *2017.09*: Tongji University Welcome Days Volunteer.
-- *2015.04*: Coordinator of volunteers, China Auto Forum.
-- *2014.06*: Outstanding member of Tongji University Students' Union.
--->
+- *2024.07 - 2025.01*: Internship in New York University(**NYU**) and Nathan Kine Institute(**NKI**) 
+- *2024.05*: Science and Technology Week Volunteer.
+- *2023.07*: Internship in Institute of Neuroscience, Chinese Academy of Sciences
 
 # 🎉 Life
 - Languages: Mandarin, English
-- Interest: Reading/Coffee/Photography/Harmonica/Table Tennis/Badminton/Video games
-
-<!-- # 🗺️ Sitemap -->
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=ff8888&cmn=ff3737&ct=808080'></script> -->
+- Interest: Reading/**Coffee**/**Photography**/Harmonica/**Table Tennis**/Badminton
 
 <div align="center">
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5b968j00kr5&amp;m=1&amp;h=165&amp;c=ff0000&amp;r=0" async="async"></script>
