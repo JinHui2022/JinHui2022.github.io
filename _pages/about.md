@@ -25,7 +25,11 @@ redirect_from:
 # 📖 About me
 I am B.S. student major in life science at Department of Life Sciences and Medicine of University of Science and Technology of China(**USTC**). I will receive my Bachelor's Degree in 2025!
 
+<br>
+
 *My Research Interest*
+
+---
 
 For a long time, I have been obessed with the mechanism **how cognition and intelligence come about in our brains**. So I pay my attention to research in neuroscience. 
 
@@ -35,7 +39,11 @@ Throughout my undergraduate career, I have seen many excellent modelling work an
 
 Also, I am a big fan of deeper learning and eager to implement the efficient information processing in our brains into constructing more powerful artificial intelligence.
 
+<br>
+
 *Funny Story about My Interest in Neuroscience*
+
+---
 
 My interest in neuroscience begins in one day of my high school when I woke up from a nap, I would see a large number of repetitive visual short films in front of my eyes, such as the Donald Duck squatting and standing up again, etc. They slowly floated past my eyes, but if I fully opened my eyes, they disappeared completely. I wonder if the short clip I saw is the form  visual memory stored in the brain or in a dream. These short films are organized to form a coherent dream logically by my brain. Whether this hypothesis right or not, from that moment on, my interest in neuroscience was ignited.
 
