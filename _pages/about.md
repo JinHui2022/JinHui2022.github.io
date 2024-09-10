@@ -20,7 +20,7 @@ redirect_from:
 *"As humans we can identify galaxies light-years away, we can study particles smaller than an atom, but we still haven't unlocked the mystery of the three pounds of matter that sits between our ears."*
 
 <!-- [🖺My Resume]("https://drive.google.com/file/d/1FGzdFxQzU9Bpn5WgMvfhcHzUvdKyqFPu/view?usp=drive_link") -->
-<a href=""https://drive.google.com/file/d/1FGzdFxQzU9Bpn5WgMvfhcHzUvdKyqFPu/view?usp=drive_link"" title="🖺My Resume">🖺My Resume</a>
+<a href="https://drive.google.com/file/d/1FGzdFxQzU9Bpn5WgMvfhcHzUvdKyqFPu/view?usp=drive_link" title="🖺My Resume">🖺My Resume</a>
 
 # 📖 About me
 I am B.S. student major in life science at Department of Life Sciences and Medicine of University of Science and Technology of China(**USTC**). I will receive my Bachelor's Degree in 2025!
