@@ -19,7 +19,7 @@ redirect_from:
 
 *"As humans we can identify galaxies light-years away, we can study particles smaller than an atom, but we still haven't unlocked the mystery of the three pounds of matter that sits between our ears."*
 
-[🖺My Resume]("../docs/resume.pdf")
+[🖺My Resume]("https://drive.google.com/file/d/1FGzdFxQzU9Bpn5WgMvfhcHzUvdKyqFPu/view?usp=drive_link")
 
 
 # 📖 About me
